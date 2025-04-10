@@ -39,6 +39,11 @@ CloudSync AppointmentBooking (CSAB) is a robust platform designed to empower bus
 
 ---
 
+## Video Demos.
+[[Landing Page Demo](https://github.com/oloakeem/CSAB/blob/main/Landing.mp4)]
+[[SignIn/LogIn Demo](https://github.com/oloakeem/CSAB/blob/main/Register.mp4)]
+[[Dashboard Demo](https://github.com/oloakeem/CSAB/blob/main/Dashboard.mp4)]
+
 ## Note
 
 This is a private SaaS project. The source code is not publicly available.
