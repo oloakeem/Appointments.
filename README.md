@@ -46,7 +46,7 @@ CloudSync AppointmentBooking (CSAB) is a robust platform designed to empower bus
 
 
 ## Client Side Demo
-[[ClientSide Demo](https://youtu.be/bSAhBjq_BH0)]
+[[ClientSide Demo]]
 
 ## Note
 
